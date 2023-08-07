@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Hi There! I am Hoang Ha, this is my blog</title>
+    <link>https://hoangha.dev/posts/</link>
+    <description>Recent content in Posts on Hi There! I am Hoang Ha, this is my blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Jul 2023 02:37:45 +0000</lastBuildDate><atom:link href="https://hoangha.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>https://hoangha.dev/posts/my-third-post/</link>
+      <pubDate>Tue, 25 Jul 2023 02:37:45 +0000</pubDate>
+      
+      <guid>https://hoangha.dev/posts/my-third-post/</guid>
+      <description>this is my thrid post</description>
+    </item>
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://hoangha.dev/posts/my-second-post/</link>
+      <pubDate>Tue, 25 Jul 2023 02:36:20 +0000</pubDate>
+      
+      <guid>https://hoangha.dev/posts/my-second-post/</guid>
+      <description>hi there</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://hoangha.dev/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Jul 2023 02:28:59 +0000</pubDate>
+      
+      <guid>https://hoangha.dev/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,12 @@
+baseURL = "https://hoangha.dev/"
+languageCode = "en-us"
+title = "Hi There! I am Hoang Ha, this is my blog"
+theme = 'PaperMod'
+[params.homeInfoParams]
+Title = "Hi there wave"
+Content = "Can be Info, links, about..."
+[[params.socialIcons]]
+name = "<github>"
+url = "<https://a.com>"
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
